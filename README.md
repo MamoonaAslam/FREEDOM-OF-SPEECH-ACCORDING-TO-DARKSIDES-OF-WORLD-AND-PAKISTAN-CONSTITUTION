@@ -1,6 +1,6 @@
 # <div class="text-blue mb-2">FREEDOM OF SPEECH ACCORDING TO DARKSIDES OF WORLD AND PAKISTAN CONSTITUTION.</div>
 ### By Mamoona Aslam
-<p>We are living in 21 century, where only that person have right to do anything who has an evil power. Freedom of speech means the right to show our opinion and give suggestions without government restraint is a democratic ideal that dates back to ancient Greece
+<p><div class="text-blue mb-2">We are living in 21 century, where only that person have right to do anything who has an evil power. Freedom of speech means the right to show our opinion and give suggestions without government restraint is a democratic ideal that dates back to ancient Greece
 Freedom of speech and the right to freedom of expression applies to ideas of all kinds including those that may be deeply offensive. But it comes with responsibilities and we believe it can be legitimately restricted.You might not expect us to say this, but in certain circumstances free speech and freedom of expression can be restricted.
 Governments have an obligation to prohibit hate speech and incitement. And restrictions can also be justified if they protect specific public interest or the rights and reputations of others.
 Any restrictions on freedom of speech and freedom of expression must be set out in laws that must in turn be clear and concise so everyone can understand them.
@@ -15,4 +15,5 @@ Democracy cannot survive without freedom of speech and expression. Freedom of ex
 The recent unlawful actions against the social media users by the law enforcing agencies clearly lacks the elements of reasonableness and is contrary to the constitution of Pakistan in terms of Article 19. It certainly amounts to a gross abuse of power that must be brought to an end with a clear and categorical commitment by the government that the actions will not be repeated.
 It is important to understand that the public office is a public agency and a trust created in the interest and for the benefit of the people of Pakistan and since an incumbent of a public office is invested with certain powers and charged with certain duties pertinent to sovereignty, the powers so delegated to the officers are held in trust for the citizens of Pakistan.</p>
 Such trust extends to all matters within the range of the duties pertaining to the office. A public officer is amenable to the rule, which forbids an agent or trustee to place himself in such an attitude. After all, public officers are nothing but the servants of the citizens of Pakistan.
+</div>
 <img src="https://github.com/MamoonaAslam/FREEDOM-OF-SPEECH-ACCORDING-TO-DARKSIDES-OF-WORLD-AND-PAKISTAN-CONSTITUTION/blob/master/images%20(5).jpeg"style="max-width:100%;">
