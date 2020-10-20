@@ -1,4 +1,4 @@
-# <span style="background-color: #FFFF00">FREEDOM OF SPEECH ACCORDING TO DARKSIDES OF WORLD AND PAKISTAN CONSTITUTION.</span>
+# <div class="text-purple">FREEDOM OF SPEECH ACCORDING TO DARKSIDES OF WORLD AND PAKISTAN CONSTITUTION.</div>
 ### By Mamoona Aslam
 <p>We are living in 21 century, where only that person have right to do anything who has an evil power. Freedom of speech means the right to show our opinion and give suggestions without government restraint is a democratic ideal that dates back to ancient Greece
 Freedom of speech and the right to freedom of expression applies to ideas of all kinds including those that may be deeply offensive. But it comes with responsibilities and we believe it can be legitimately restricted.You might not expect us to say this, but in certain circumstances free speech and freedom of expression can be restricted.
