@@ -1,5 +1,3 @@
-#### FREEDOM-OF-SPEECH-ACCORDING-TO-DARKSIDES-OF-WORLD-AND-PAKISTAN-CONSTITUTION
-<b>Freedom of speech the right to express opinions without government restraint is a democratic ideal that dates back to ancient Greece.<b>
 # FREEDOM OF SPEECH ACCORDING TO DARKSIDES OF WORLD AND PAKISTAN CONSTITUTION
 ### By Mamoona Aslam
 <p>We are living in 21 century, where only that person have right to do anything who has an evil power. Freedom of speech means the right to show our opinion and give suggestions without government restraint is a democratic ideal that dates back to ancient Greece
